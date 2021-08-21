@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hostel_Allocation_Assignment/static/css/main.495ced0c.chunk.css",
+    "main.js": "/Hostel_Allocation_Assignment/static/js/main.e37fa71f.chunk.js",
+    "main.js.map": "/Hostel_Allocation_Assignment/static/js/main.e37fa71f.chunk.js.map",
+    "runtime-main.js": "/Hostel_Allocation_Assignment/static/js/runtime-main.892cf49e.js",
+    "runtime-main.js.map": "/Hostel_Allocation_Assignment/static/js/runtime-main.892cf49e.js.map",
+    "static/js/2.e7f4bb28.chunk.js": "/Hostel_Allocation_Assignment/static/js/2.e7f4bb28.chunk.js",
+    "static/js/2.e7f4bb28.chunk.js.map": "/Hostel_Allocation_Assignment/static/js/2.e7f4bb28.chunk.js.map",
+    "static/js/3.fea4da09.chunk.js": "/Hostel_Allocation_Assignment/static/js/3.fea4da09.chunk.js",
+    "static/js/3.fea4da09.chunk.js.map": "/Hostel_Allocation_Assignment/static/js/3.fea4da09.chunk.js.map",
+    "index.html": "/Hostel_Allocation_Assignment/index.html",
+    "static/css/main.495ced0c.chunk.css.map": "/Hostel_Allocation_Assignment/static/css/main.495ced0c.chunk.css.map",
+    "static/js/2.e7f4bb28.chunk.js.LICENSE.txt": "/Hostel_Allocation_Assignment/static/js/2.e7f4bb28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892cf49e.js",
+    "static/js/2.e7f4bb28.chunk.js",
+    "static/css/main.495ced0c.chunk.css",
+    "static/js/main.e37fa71f.chunk.js"
+  ]
+}
